@@ -1,0 +1,21 @@
+.deleteButton {
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    right: 5px;
+}
+
+
+.markButton {
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    right: 75px;
+    text-align: justify;
+    
+    
+}
+
+.done {
+    text-decoration-line: line-through;
+}
